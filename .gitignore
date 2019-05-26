@@ -34,3 +34,7 @@
 # Visual Studio Code
 .vscode
 *.vscode
+
+# Make
+.depend
+*.depend
